@@ -45,7 +45,7 @@
 
 ## 📚 کتابخانه‌ها
 
-1. **[Vue Persian Data Picker](https://github.com/alireza-ab/vue-persian-datepicker)**  
+1. **[Vue3 Persian Data Picker](https://github.com/alireza-ab/vue-persian-datepicker)**  
 
   انتخابگر تاریخ شمسی برای Vue.js
 
