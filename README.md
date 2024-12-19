@@ -42,8 +42,7 @@
 
 ## 🖌️ قالب‌های‌وردپرس
 
-1. **[Panda](https://github.com/Rayiumir/Panda)**  
-
+1. **[Panda](https://github.com/Rayiumir/Panda)**
    قالب سبک و زیبای وردپرس برای بلاگ ها
 
 
