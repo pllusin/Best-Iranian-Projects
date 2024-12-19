@@ -45,9 +45,9 @@
 
 ## 📚 کتابخانه‌ها
 
-1. **[Xeon](https://github.com/siamak/Xeon)**  
-   کتابخانه‌ای برای ساده‌تر کردن کار با Threads در جاوا.
+1. **[Vue Persian Data Picker](https://github.com/alireza-ab/vue-persian-datepicker)**  
 
+  انتخابگر تاریخ شمسی برای Vue.js
 
 ## 🌐 وب‌سایت‌ها
 
