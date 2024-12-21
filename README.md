@@ -73,22 +73,18 @@
 
 ## 🛠 ابزارهای توسعه
 
-1. **[Iranian Developer Roadmap](https://github.com/Ashkan-rmk/iranian-developer-roadmap)**  
-   نقشهٔ راه توسعه‌دهندگان ایرانی برای یادگیری و پیشرفت.
 
-2. **[Awesome Persian NLP](https://github.com/mhbashari/awesome-persian-nlp)**  
-   مجموعه‌ای از منابع و ابزارهای مرتبط با پردازش زبان طبیعی فارسی.
 
-3. **[Jalali.js](https://github.com/jalaali/jalaali-js)**  
+1. **[Jalali.js](https://github.com/jalaali/jalaali-js)**  
    کتابخانهٔ جاوااسکریپت برای تبدیل تاریخ میلادی به جلالی و بالعکس.
 
-4. **[Neshan Android SDK](https://github.com/NeshanMaps/NeshanAndroidSDK)**  
+2. **[Neshan Android SDK](https://github.com/NeshanMaps/NeshanAndroidSDK)**  
    کیت توسعهٔ نقشهٔ نَشان برای اندروید.
 
-5. **[Persian.js](https://github.com/babakhani/persian.js)**  
+3. **[Persian.js](https://github.com/babakhani/persian.js)**  
    کتابخانه‌ای برای کار با متون فارسی و تاریخ جلالی در جاوااسکریپت.
 
-6. **[Persian-Tools](https://github.com/persian-tools/persian-tools)**  
+4. **[Persian-Tools](https://github.com/persian-tools/persian-tools)**  
    مجموعه‌ای از ابزارهای کاربردی برای برنامه‌نویسی به زبان فارسی.
 
 
